@@ -1,5 +1,8 @@
 # Hosts
 
+# [centrum.cz]
+0.0.0.0 a.centrum.cz
+
 # [gemius.pl]
 0.0.0.0 gask.hit.gemius.pl
 0.0.0.0 ls.hit.gemius.pl
