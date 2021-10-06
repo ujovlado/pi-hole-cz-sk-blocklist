@@ -1,4 +1,8 @@
 # Hosts
 
+# [gemius.pl]
+0.0.0.0 gask.hit.gemius.pl
+0.0.0.0 ls.hit.gemius.pl
+
 # [uspech.sk]
 0.0.0.0 inres.uspech.sk
